@@ -69,7 +69,7 @@ local Maps = {
     },
     [113273588963037] = {
         id = "oneup", name = "+1 Upgrade Per Kill",
-        scriptUrl = "https://raw.githubusercontent.com/rendays666/renrenscript/refs/heads/main/renrenhub%20%2B1UPGRADE%20per%20kill.lua",
+        scriptUrl = "https://pastebin.com/raw/Vd2ZYevk",
         description = "Best script for 1UP Kill", imageUrl = "",
     },
 }
