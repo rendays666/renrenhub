@@ -226,9 +226,9 @@ print("[REN] Core shared ready")
 -- ║  ⚠️ GANTI URL DI SINI — sesuai tempat kamu upload module           ║
 -- ╚═══════════════════════════════════════════════════════════════════╝
 local MODULES = {
-    Database     = "https://your-host/renrenhub_database.lua",
-    Music        = "https://your-host/renrenhub_music.lua",
-    ScriptLoader = "https://your-host/renrenhub_scriptloader.lua",
+    Database     = "https://raw.githubusercontent.com/rendays666/renrenhub/refs/heads/main/renrenhub_database.lua",
+    Music        = "https://raw.githubusercontent.com/rendays666/renrenhub/refs/heads/main/renrenhub_music.lua",
+    ScriptLoader = "https://raw.githubusercontent.com/rendays666/renrenhub/refs/heads/main/renrenhub_scriptloader.lua",
 }
 
 local function fetchModule(name, url)
